@@ -1,0 +1,15 @@
+traceroute to www.elisava.net (34.175.48.42), 64 hops max, 52 byte packets
+ 1  router.asus.com (192.168.1.1)  1.789 ms  1.826 ms  1.523 ms
+ 2  96.120.89.245 (96.120.89.245)  12.380 ms  14.843 ms  11.582 ms
+ 3  po-304-1228-rur102.pinole.ca.sfba.comcast.net (68.87.227.73)  9.970 ms  14.427 ms  12.903 ms
+ 4  be-324-rar01.pleasanton.ca.sfba.comcast.net (162.151.79.133)  28.128 ms  13.079 ms  14.556 ms
+ 5  be-398-ar01.hayward.ca.sfba.comcast.net (162.151.87.225)  14.362 ms  12.851 ms  18.216 ms
+ 6  be-36321-cs02.9greatoaks.ca.ibone.comcast.net (68.86.93.133)  13.849 ms
+    be-36311-cs01.9greatoaks.ca.ibone.comcast.net (68.86.93.129)  16.337 ms
+    be-36331-cs03.9greatoaks.ca.ibone.comcast.net (68.86.93.137)  12.977 ms
+ 7  be-2211-pe11.9greatoaks.ca.ibone.comcast.net (96.110.32.246)  18.893 ms
+    be-2312-pe12.9greatoaks.ca.ibone.comcast.net (96.110.33.42)  15.425 ms
+    be-2411-pe11.9greatoaks.ca.ibone.comcast.net (96.110.32.254)  14.543 ms
+ 8  173.167.56.58 (173.167.56.58)  13.973 ms  13.637 ms
+    66.208.233.94 (66.208.233.94)  17.145 ms
+ 9  42.48.175.34.bc.googleusercontent.com (34.175.48.42)  161.695 ms  158.465 ms  158.290 ms

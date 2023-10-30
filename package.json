@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^1.6.0",
+    "puppeteer": "^21.4.1",
+    "yelp-fusion": "^3.0.0"
+  }
+}
